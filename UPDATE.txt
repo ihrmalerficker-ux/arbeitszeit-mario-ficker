@@ -1,0 +1,1 @@
+Version 3: Kompakte Monatsliste. Jeden Tag antippen zum Ausklappen. PDF-Funktion unverändert. Dateien index.html und sw.js im GitHub-Repository ersetzen. Vorher Datensicherung erstellen.
