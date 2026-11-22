@@ -1,0 +1,8 @@
+Arbeitszeit-App – Installation auf iPhone/iPad
+
+1. Alle Dateien dieses Ordners unverändert gemeinsam auf einem HTTPS-Webspace bereitstellen (z. B. GitHub Pages oder Netlify).
+2. Die HTTPS-Adresse der index.html in Safari öffnen.
+3. Teilen > Zum Home-Bildschirm > Hinzufügen wählen.
+4. App einmal bei bestehender Internetverbindung vollständig öffnen. Danach Flugmodus testen.
+
+WICHTIG: Das Öffnen der lokalen HTML-Datei aus Dateien installiert keine vollwertige PWA. Ohne HTTPS-Hosting kann die Offline-Installation nicht abgeschlossen werden. Daten bleiben lokal auf dem Gerät und können bei Löschen der Website-Daten verloren gehen. Regelmäßig Datensicherung exportieren. Keine automatische Synchronisation.
